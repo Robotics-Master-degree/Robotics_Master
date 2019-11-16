@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+    <name>arduino_ros_examples</name>
+    <version>0.0.0</version>
+    <description>
+        Set of examples of how talk Arduino and ROS.
+    </description>
+
+    <!-- One maintainer tag required, multiple allowed, one person per tag --> 
+    <maintainer email="andreu@beta-robots.com">Andreu Corominas Murtra</maintainer>
+
+    <!-- One license tag required, multiple allowed, one license per tag -->
+    <license>BSD</license>
+
+    <!-- Url tags are optional, but mutiple are allowed, one per tag -->
+    <url type="website">https://github.com/beta-robots/arduino_ros_examples</url>
+
+    <!-- Author tags are optional, mutiple are allowed, one per tag -->
+    <author email="andreu@beta-robots.com">Andreu Corominas Murtra</author>
+
+    <!-- The *_depend tags are used to specify dependencies -->
+    <buildtool_depend>catkin</buildtool_depend>
+
+<!--     <build_depend></build_depend> -->
+    
+    <run_depend>rosserial-arduino</run_depend>
+
+</package>

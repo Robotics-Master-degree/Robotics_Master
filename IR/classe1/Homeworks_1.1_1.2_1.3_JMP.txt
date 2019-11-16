@@ -1,0 +1,28 @@
+# Exercise 1.1
+
+Exercise 1.1 consist of:
+1. Create a GitHub profile. ~~OK~~
+2. Create a repository to play with some text files, and reproduce some working flow, for instance the one studied in the classroom. ~~OK~~
+3. Document what are you doing in the wiki or Readme.md, telling what are you learning. ~~OK~~
+4. Find out other students of the master at GitHub. ~~OK~~
+5. Let some of your mates to have some development role at your repo. Let them create some branch to develop new things, and finally accept a pull request.~~OK~~ (made in: [practica1](https://github.com/nachogo23/practica1.git)
+6. Fork some student repository, do some modifications and send a pull request. ~~OK~~
+7. Provide the link of your repository: [RM_Class1](https://github.com/easyrobotic/RM_Class1.git) ~~OK~~
+
+
+# Exercise 1.2
+
+1. In case OpenCV is not installed in your machine, do it. ~~OK~~
+2. Once logged in your git account, go to:https://github.com/beta-robots/webcam_capture.gitand find the button “fork”. Click it!. This action “forks” this repository to your git space, so it creates a new repository in your git space with the same content. ~~OK~~
+3. Clone YOUR recently created (forked) repository to your local machine ~~OK~
+4. Try to understand both the code and the CMakeLists.txte. ~~OK~~
+5. Build the code and execute it with your webcamf. Document  through the README file the procedure to follow by a newby user who wants to download and execute your project. ~~OK~~
+6. Provide the link of your repository. [webcam_capture](https://github.com/easyrobotic/webcam_capture.git) ~~OK~~
+
+
+# Exercise 1.3
+
+1. Create a new repository at your GitHub called “ros_tutorials” and follow the tutorials at http://wiki.ros.org/ROS/Tutorials. Numbers 1,2,3,4,5,6,7,10,11,12. (8,9 are optionals). Once finished, notify the professor through moodle by providing the link of the repository. ~~OK~~
+
+[ros_tutorials](https://github.com/easyrobotic/ros_tutorials) ~~OK~~
+
